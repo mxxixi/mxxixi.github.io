@@ -7,7 +7,12 @@ html {
 }
 
 body {
-  margin: 0
+  margin: 0;
+  background-image: url('https://oss.lixiaoxu.cn/xixi/b3be458e28848ead9ef38d96e1f29d20.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;s
+  background-size: 100% 100%;
+  background-size: cover;
 }
 
 .ih-item.circle.effect {
