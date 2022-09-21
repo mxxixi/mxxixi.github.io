@@ -8,11 +8,6 @@ html {
 
 body {
   margin: 0;
-  background-image: url('https://oss.lixiaoxu.cn/xixi/b3be458e28848ead9ef38d96e1f29d20.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-  background-size: cover;
 }
 
 .ih-item.circle.effect {
@@ -7997,7 +7992,7 @@ hr {
   width: 100%;
   max-width: none;
   height: 100%;
-  background: center center no-repeat #666;
+  /* background: center center no-repeat #666; */
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
