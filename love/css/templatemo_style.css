@@ -12,6 +12,24 @@
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+.tab{
+    border: 2px;
+    border-color: #fff;
+    margin: 0 auto;
+    padding: 10;
+}
+table {
+    width: 800px;
+}
+
+table,
+table td,
+table th ,table p{
+    border: 1px solid #fff;
+    height: 40px;
+    margin: auto;
+    vertical-align: auto;
+}
 
 .header-wrapper:after {
     content: "";
