@@ -16,7 +16,7 @@
 .header-wrapper:after {
     content: "";
     display: table;
-    clear: both;
+    /* clear: both; */
 }
 
 .blue {
@@ -838,7 +838,7 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: #b7bcbe;
-    padding: 20px;
+    /* padding: 20px; */
     font-family: "Roboto",sans-serif;
     line-height: 1.55;
     text-rendering: optimizeLegibility;
